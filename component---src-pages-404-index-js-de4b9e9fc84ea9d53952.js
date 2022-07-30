@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkbike_stand=self.webpackChunkbike_stand||[]).push([[911],{1105:function(e,n,t){t.r(n);var l=t(7294),a=t(1597);n.default=function(){return l.createElement("main",null,l.createElement("h1",null,"Page not found"),l.createElement("p",null,"Sorry"," ",l.createElement("span",{role:"img","aria-label":"Pensive emoji"},"😔")," ","we couldn’t find what you were looking for.",l.createElement("br",null),l.createElement(a.rU,{to:"/"},"Go home"),"."))}}}]);
+//# sourceMappingURL=component---src-pages-404-index-js-de4b9e9fc84ea9d53952.js.map

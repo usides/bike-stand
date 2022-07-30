@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkbike_stand=self.webpackChunkbike_stand||[]).push([[494],{9920:function(e,n,t){t.r(n);var a=t(7294),u=t(3758),r=t(7920),s=t(1753),c=function(e){var n=e.data.allWallMountsJson.nodes;return a.createElement(s.J,{heading:"Кронштейны"},n.map((function(e){return a.createElement(r.x,{key:e.id,product:e})})))};c.Layout=u.A,n.default=c}}]);
+//# sourceMappingURL=component---src-pages-wall-mount-index-js-48b6f7bd566385ef7e60.js.map

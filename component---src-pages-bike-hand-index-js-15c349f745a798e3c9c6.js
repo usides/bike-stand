@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkbike_stand=self.webpackChunkbike_stand||[]).push([[170],{7193:function(e,n,t){t.r(n);var a=t(7294),u=t(3758),r=t(7920),s=t(1753),c=function(e){var n=e.data.allBikeHandsJson.nodes;return a.createElement(s.J,{heading:"Стойки"},n.map((function(e){return a.createElement(r.x,{key:e.id,product:e})})))};c.Layout=u.A,n.default=c}}]);
+//# sourceMappingURL=component---src-pages-bike-hand-index-js-15c349f745a798e3c9c6.js.map
